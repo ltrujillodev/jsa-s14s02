@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jsa-s14s02/static/css/main.e6c13ad2.css",
+    "main.js": "/jsa-s14s02/static/js/main.f5b81908.js",
+    "index.html": "/jsa-s14s02/index.html",
+    "main.e6c13ad2.css.map": "/jsa-s14s02/static/css/main.e6c13ad2.css.map",
+    "main.f5b81908.js.map": "/jsa-s14s02/static/js/main.f5b81908.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f5b81908.js"
+  ]
+}
